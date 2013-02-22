@@ -23,4 +23,4 @@ Features
 
 
 
-By: [cod3.me][cod3.me]
+By: http://www.cod3.me
